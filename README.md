@@ -217,4 +217,22 @@
 
 - Автоматическое восстановление: Оркестратор Kubernetes обеспечивает перезапуск сервисов при сбоях, а потоковая платформа гарантирует доставку и повторную обработку сообщений.
 
+## Список источников
+
+1. Apache Kafka Documentation : официальная документация : [веб-сайт]. – URL: https://kafka.apache.org/documentation/ (дата обращения: 27.12.2024). – Текст: электронный.
+
+2. Elastic. What is the ELK Stack? : [веб-сайт]. – URL: https://www.elastic.co/what-is/elk-stack (дата обращения: 27.12.2024). – Текст: электронный.
+
+3. Grafana Labs : [веб-сайт]. – URL: https://grafana.com/ (дата обращения: 27.12.2024). – Текст: электронный.
+
+4. Li, M. TrOCR: Transformer-based Optical Character Recognition with Pre-trained Models / M. Li, T. Lv, L. Cui, Y. Lu, D. A. F. Florêncio, C. Zhang, Z. Li, F. Wei // arXiv.org : электронный препринт. – 2021. – arXiv:2109.10282. – URL: https://arxiv.org/pdf/2109.10282.pdf (дата обращения: 27.12.2024). – Текст: электронный.
+
+5. NVIDIA Corporation. NVIDIA A100 Tensor Core GPU Architecture : техническая документация. – 2020. – URL: https://images.nvidia.com/aem-dam/en-zz/Solutions/data-center/nvidia-ampere-architecture-whitepaper.pdf (дата обращения: 27.12.2024). – Текст: электронный.
+
+6. Prometheus : система мониторинга : [веб-сайт]. – URL: https://prometheus.io/ (дата обращения: 27.12.2024). – Текст: электронный.
+
+7. Xie, E. SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers / E. Xie, W. Wang, Z. Yu, A. Anandkumar, J. M. Alvarez, P. Luo // arXiv.org : электронный препринт. – 2021. – arXiv:2105.15203. – URL: https://arxiv.org/pdf/2105.15203.pdf (дата обращения: 27.12.2024). – Текст: электронный.
+
+8. Yandex Cloud. Обзор Yandex Cloud : документация : [веб-сайт]. – URL: https://cloud.yandex.ru/docs/overview (дата обращения: 27.12.2024). – Текст: электронный.
+
 
